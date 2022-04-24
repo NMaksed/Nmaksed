@@ -4,7 +4,7 @@ My name is Nathan I'm 17 and I'm in college. || Meu nome é Nathan, eu tenho 17 
 
 - 🎓 I'm Currently learning HTML, CSS, C and PHP || Eu estou aprendendo HTML, CSS, C e PHP no momento.
 - 👀 Looking for some projects to learn more and more about every languages, mainly JavaScript and C, because I'm not so good at it 😢 || Procuro alguns projetos para aprender cada vez mais sobre todas as linguagens, principalmente JavaScript e C, pois não sou tão bom 😢
-- 🙂 My English is a little rusty but with a little practice again I can speak almost fluently || Meu inglês está um pouco enferrujado, mas com um pouco de prática posso falar quase fluentemente
+- 🙂 My English is a little rusty but with a little practice I can speak almost fluently || Meu inglês está um pouco enferrujado, mas com um pouco de prática posso falar quase fluentemente
 - Contact: nathangfonseca@hotmail.com 
 
 <div>
