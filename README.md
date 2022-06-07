@@ -17,7 +17,7 @@ My name is Nathan I'm 17 and I'm in college. || Meu nome é Nathan, eu tenho 17 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="5%" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="5%" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="5%"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" />
 </div>
    
 ##
