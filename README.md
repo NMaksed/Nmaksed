@@ -1,5 +1,5 @@
 ## Hey how u doing ? \0/ || Eae, como vai ? \0/
-My name is Nathan I'm 17 and I'm in college. || Meu nome é Nathan, eu tenho 17 anos e eu estou na faculdade. 
+My name is Nathan I'm 18 and I'm in college. || Meu nome é Nathan, eu tenho 18 anos e eu estou na faculdade. 
 
 
 - 🎓 I'm Currently learning HTML, CSS, C and PHP || Eu estou aprendendo HTML, CSS, C e PHP no momento.
