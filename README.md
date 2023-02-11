@@ -1,9 +1,8 @@
 ## Hey how u doing ? \0/ || Eae, como vai ? \0/
-My name is Nathan I'm 18 and I'm in college. || Meu nome é Nathan, eu tenho 18 anos e eu estou na faculdade. 
+My name is Nathan I'm 18 and I'm doing an interning. || Meu nome é Nathan, eu tenho 18 anos e eu estou estagiando. 
 
 
-- 🎓 I'm Currently learning C#, Python and MySQL  || Eu estou aprendendo C#, Python e MySQL no momento.
-- 👀 Looking for some projects to learn more and more about every languages, mainly JavaScript and C, because I'm not so good at it 😢 || Procuro alguns projetos para aprender cada vez mais sobre todas as linguagens, principalmente JavaScript e C, pois não sou tão bom 😢
+- 💻 I'm Currently working with JAVA, REACT, JAVASCRIPT and SQL.  || Eu estou trabalhando com JAVA, REACT, JAVASCRIPT e SQL.
 - 🙂 My English is a little rusty but with a little practice I can speak almost fluently || Meu inglês está um pouco enferrujado, mas com um pouco de prática posso falar quase fluentemente
 - Contact: greccofonseca11@hotmail.com
 
