@@ -11,23 +11,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"width="5%" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%"/>
-          
-          
+  
 
-<h3> BackEnd e FrameWorks</h3>
+## <h3> BackEnd e FrameWorks</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="5%"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="5%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="5%"/>         
-
-<h3> Banco de Dados </h3>
+ 
+## <h3> Banco de Dados </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="5%"/>
-
-<h3> SO </h3>
+ 
+## <h3> SO </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="5%"/>        
-</div>
+</div>  
 
-<H3> Produção </H3>
+## <H3> Produção </H3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="5%"/>
 (<b>Estudando</b>) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>
                   
