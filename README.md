@@ -1,6 +1,6 @@
 ## Olá, tudo bem ? Meu nome é Nathan Grecco Fonseca, tenho 19 anos.
 
-🖥️ FullStack Developer pela V2Saude. <br>
+🖥️ Software Developer pela V2Saude (01/2023 - 03/2024). <br>
 🌎 Brazil, Mogi das Cruzes.
 
 ## 💻 Minha Especialidade
