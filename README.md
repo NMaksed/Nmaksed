@@ -1,6 +1,7 @@
 ## Olá, tudo bem ? Meu nome é Nathan Grecco Fonseca, tenho 19 anos.
 
 🖥️ Software Developer pela V2Saude (01/2023 - 03/2024). <br>
+⚙️ It Analist pela Casa Giacomo (04/2024). <br>
 🌎 Brazil, Mogi das Cruzes.
 
 ## 💻 Minha Especialidade
@@ -15,8 +16,7 @@
 
 ## <h3> BackEnd e FrameWorks</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="5%"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="5%" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="5%"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="5%" />       
  
 ## <h3> Banco de Dados </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="5%"/>
@@ -28,7 +28,8 @@
 
 ## <H3> Produção </H3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="5%"/>
-(<b>Estudando</b>) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="5%" />
+          
                   
 
 ## 📜 Conquistas Acadêmicas
