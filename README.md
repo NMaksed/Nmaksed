@@ -24,12 +24,11 @@
 ## <h3> SO </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="5%"/>        
-</div>  
 
 ## <H3> Produção </H3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="5%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="5%" />
-          
+</div>  
                   
 
 ## 📜 Conquistas Acadêmicas
