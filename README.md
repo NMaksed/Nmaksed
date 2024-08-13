@@ -1,4 +1,4 @@
-## Olá, tudo bem ? Meu nome é Nathan Grecco Fonseca, tenho 19 anos.
+## Olá, tudo bem ? Meu nome é Nathan Grecco Fonseca, tenho 20 anos.
 
 🖥️ Software Developer pela V2Saude (01/2023 - 03/2024). <br>
 ⚙️ It Analist pela Casa Giacomo (04/2024). <br>
