@@ -1,7 +1,8 @@
 ## Olá, tudo bem ? Meu nome é Nathan Grecco Fonseca, tenho 20 anos.
 
 🖥️ Software Developer pela V2Saude (01/2023 - 03/2024). <br>
-⚙️ It Analist pela Casa Giacomo (04/2024). <br>
+⚙️ It Analist pela Casa Giacomo (04/2024 - 08/2024). <br>
+🖥️ Software Developer pela Autbank (09/2024). <br>
 🌎 Brazil, Mogi das Cruzes.
 
 ## 💻 Minha Especialidade
