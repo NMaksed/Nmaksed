@@ -34,7 +34,7 @@
 
 ## 📜 Conquistas Acadêmicas
 🎓UMC - Análise e Desenvolvimento de Sistemas (2023) <br>
-👨‍🎓Univesp - Engenharia da Computação (Previsão de conclusão em 2027)
+👨‍🎓FIAP - Master of Business MBA - Engenharia de Software (2024)
 
 ## 📞 Contato
 <div>
